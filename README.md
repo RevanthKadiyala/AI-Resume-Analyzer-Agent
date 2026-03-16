@@ -18,3 +18,15 @@ An AI-powered resume analyzer that evaluates resumes and provides feedback using
 ## Installation
 
 1. Clone the repository
+2. Install dependencies
+3.  Run the project
+   # # Future Improvements
+
+- Resume score system
+- Job-role based resume analysis
+- Web interface
+
+## Author
+
+Revanth Kadiyala
+
